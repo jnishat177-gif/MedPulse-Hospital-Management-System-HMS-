@@ -1,0 +1,6 @@
+{
+  "name": "MediPulse - Hospital Management System & 50-Page Technical Report",
+  "description": "Real-time Hospital Management System featuring Admin, Doctor, Receptionist, and Patient modules, live clinical queue, appointment scheduling, and a 50-page technical report with Word (.docx) and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
